@@ -6,5 +6,5 @@ What I learn from this tutorial
 - How to bind data to SwiftUI
 - How to use SafariView
 
-![Screenshot-1](./screenshot-1.png "Screenshot 1")
-![Screenshot-2](./screenshot-2.png "Screenshot 2")
+![Screenshot-1](./Screenshot-1.png "Screenshot 1")
+![Screenshot-2](./Screenshot-2.png "Screenshot 2")
